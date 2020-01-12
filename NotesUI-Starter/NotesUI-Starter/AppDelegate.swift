@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  NotesUI-Starter
+//  Notes
 //
-//  Created by Longe, Chris on 1/5/20.
-//  Copyright © 2020 Chris Longe. All rights reserved.
+//  Created by Arshad, Fatima on 12/23/19.
+//  Copyright © 2019 Arshad, Fatima. All rights reserved.
 //
 
 import UIKit
